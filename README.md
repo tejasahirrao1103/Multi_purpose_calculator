@@ -1,5 +1,9 @@
+
+
 # Multi_purpose_calculator
-This is PYthon base Calculator app
+This is PYthon base Calculator program
+This project is create for better understanding of Modules and fuction in python
+
 
 
 for use this in "windows"
