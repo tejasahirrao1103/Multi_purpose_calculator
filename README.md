@@ -18,7 +18,7 @@ step 2:- apt get update && apt get upgrade -y
 step 3:- apt install git
 step 4:- apt install python3
 step 5:- git clone https://github.com/tejasahirrao1103/Multi_purpose_calculatorste
-step 6:- cd calculator chmode +777
+step 6:- cd Multi_purpose_calculator chmode +777
 step 7 :- python main.py
 
 
